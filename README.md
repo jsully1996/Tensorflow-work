@@ -1,2 +1,2 @@
 # Tensorflow-work
-Experimentation and mini projects using Google's Tensorflow API
+Experimentation and mini projects using Google's Tensorflow API.
